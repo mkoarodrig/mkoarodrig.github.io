@@ -1,1 +1,11 @@
-body {background-color=#D6D6D6}
+body {color: #333333; background-color:#D6D6D6 }
+.code {
+    color:#788aa3
+    background-color:#95a3a4
+}
+@font-face {
+    font-family: "manrope";
+    src: url("Manrope-Regular.woff2") format("woff2"),
+         url("Manrope-Medium.woff") format("woff"),
+         url("Manrope-Semibold.woff");
+  }
